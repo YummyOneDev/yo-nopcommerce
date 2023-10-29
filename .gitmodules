@@ -1,3 +1,6 @@
 [submodule "src/Plugins/Yo.Plugin.Payments.Liqpay"]
 	path = src/Plugins/Yo.Plugin.Payments.Liqpay
 	url = https://github.com/YummyOneDev/yo-nop-liqpay.git
+[submodule "src/Presentation/Nop.Web/Themes/YummyOne"]
+	path = src/Presentation/Nop.Web/Themes/YummyOne
+	url = https://github.com/YummyOneDev/yo-nop-theme.git
